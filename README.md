@@ -38,3 +38,11 @@ This project analyzes a Netflix titles dataset and presents key insights through
 
 git clone https://github.com/saigogula/netflix-content-analytics-dashboard.git
 cd netflix-content-analytics-dashboard
+
+pip install streamlit pandas plotly
+
+streamlit run app.py
+
+
+
+
