@@ -42,7 +42,3 @@ cd netflix-content-analytics-dashboard
 pip install streamlit pandas plotly
 
 streamlit run app.py
-
-
-
-
